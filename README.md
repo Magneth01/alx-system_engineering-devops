@@ -1,1 +1,1 @@
-This is Shell permission project
+This scrippt prints Hello World
