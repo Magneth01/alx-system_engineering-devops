@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/lists -empty "\n"
+ls find ~/lists -empty "\n"
