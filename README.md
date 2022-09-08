@@ -1,1 +1,1 @@
-This scrippt prints Hello World
+These are expansion scripts
